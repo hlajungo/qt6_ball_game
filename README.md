@@ -1,1 +1,1 @@
-[snapshot](./snapshot.png)
+[snapshot](snapshot.png)

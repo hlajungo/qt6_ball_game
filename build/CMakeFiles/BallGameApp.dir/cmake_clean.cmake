@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  ".rcc/qmlcache/BallGameApp_qml/Ball_qml.cpp"
+  ".rcc/qmlcache/BallGameApp_qml/GameWorld_qml.cpp"
+  ".rcc/qmlcache/BallGameApp_qml/Sword_qml.cpp"
+  ".rcc/qmlcache/BallGameApp_qmlcache_loader.cpp"
+  ".rcc/qrc_BallGameApp_raw_qml_0.cpp"
+  ".rcc/qrc_qmake_BallGame.cpp"
+  "BallGameApp_autogen"
+  "CMakeFiles/BallGameApp_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/BallGameApp_autogen.dir/ParseCache.txt"
+  "BallGame/BallGameApp.qmltypes"
+  "BallGameApp"
+  "BallGameApp.pdb"
+  "BallGameApp_autogen/mocs_compilation.cpp"
+  "BallGameApp_autogen/timestamp"
+  "CMakeFiles/BallGameApp.dir/BallGameApp_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/BallGameApp.dir/BallGameApp_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/ballgameapp_qmltyperegistrations.cpp.o"
+  "CMakeFiles/BallGameApp.dir/ballgameapp_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qml/Ball_qml.cpp.o"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qml/Ball_qml.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qml/GameWorld_qml.cpp.o"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qml/GameWorld_qml.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qml/Sword_qml.cpp.o"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qml/Sword_qml.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qmlcache_loader.cpp.o"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qmlcache/BallGameApp_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qrc_BallGameApp_raw_qml_0.cpp.o"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qrc_BallGameApp_raw_qml_0.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qrc_qmake_BallGame.cpp.o"
+  "CMakeFiles/BallGameApp.dir/build/.rcc/qrc_qmake_BallGame.cpp.o.d"
+  "CMakeFiles/BallGameApp.dir/source/main.cpp.o"
+  "CMakeFiles/BallGameApp.dir/source/main.cpp.o.d"
+  "ballgameapp_qmltyperegistrations.cpp"
+  "meta_types/qt6ballgameapp_metatypes.json"
+  "meta_types/qt6ballgameapp_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/BallGameApp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

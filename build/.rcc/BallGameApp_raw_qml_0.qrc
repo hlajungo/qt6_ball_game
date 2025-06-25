@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/BallGame/">
+    <file alias="qml/GameWorld.qml">/media/hlajungo/D/linux/repo/hello_qt/ball_game/qml/GameWorld.qml</file>
+    <file alias="qml/Ball.qml">/media/hlajungo/D/linux/repo/hello_qt/ball_game/qml/Ball.qml</file>
+    <file alias="qml/Sword.qml">/media/hlajungo/D/linux/repo/hello_qt/ball_game/qml/Sword.qml</file>
+  </qresource>
+</RCC>
+

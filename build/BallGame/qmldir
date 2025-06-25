@@ -1,0 +1,7 @@
+module BallGame
+typeinfo BallGameApp.qmltypes
+prefer :/BallGame/
+GameWorld 1.0 qml/GameWorld.qml
+Ball 1.0 qml/Ball.qml
+Sword 1.0 qml/Sword.qml
+

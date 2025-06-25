@@ -1,0 +1,14 @@
+-rootPath
+/media/hlajungo/D/linux/repo/hello_qt/ball_game
+-cmake-output
+-output-file
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/.qt_plugins/Qt6_QmlPlugins_Imports_BallGameApp.cmake
+-importPath
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/BallGame
+-importPath
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/.rcc/qmake_BallGame.qrc
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/.rcc/BallGameApp_raw_qml_0.qrc

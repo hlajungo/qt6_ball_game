@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/BallGame">
+    <file alias="qmldir">/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/BallGame/qmldir</file>
+  </qresource>
+</RCC>
+

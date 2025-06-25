@@ -1,0 +1,15 @@
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_automoc_json_extraction.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_qmltyperegistration.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/all_qmltyperegistrations.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_other_files.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_qmllint.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_qmllint_json.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/all_qmllint.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/all_qmllint_json.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_tooling.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_qmlimportscan.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/edit_cache.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/rebuild_cache.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_autogen_timestamp_deps.dir
+/media/hlajungo/D/linux/repo/hello_qt/ball_game/build/CMakeFiles/BallGameApp_autogen.dir
